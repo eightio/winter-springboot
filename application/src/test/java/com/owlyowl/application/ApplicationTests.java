@@ -1,10 +1,10 @@
-package com.owlyowl.winterspringboot;
+package com.owlyowl.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WinterSpringbootApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
